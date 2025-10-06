@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Development in ESAn**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-mipq.onrender.com/](https://my-portfolio-mipq.onrender.com/)
+- 👨‍💻 All of my projects are available at [hugohadden.com](hugohadden.com)
 
 - 📫 How to reach me **hugohaddenn@gmail.com**
 
