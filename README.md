@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Development in ESAn**
 
-- 👨‍💻 All of my projects are available at [hugohadden.com](hugohadden.com)
+- 👨‍💻 All of my projects are available at [hugo-hadden.com](hugo-hadden.com)
 
 - 📫 How to reach me **hugohaddenn@gmail.com**
 
