@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">Inspiring Software Developer</h3>
+<h3 align="center">Inspiring Web Developer</h3>
 
-- 🌱 I’m currently learning **Software Development in ESAn**
+- 🌱 I’m a **Software Development** graduate
 
 - 👨‍💻 All of my projects are available at [hugo-hadden.com](hugo-hadden.com)
 
